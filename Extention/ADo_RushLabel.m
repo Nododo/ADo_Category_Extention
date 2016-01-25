@@ -1,11 +1,3 @@
-//
-//  JZGRushLabel.m
-//  JingZhenGu
-//
-//  Created by Nododo on 15/12/15.
-//  Copyright © 2015年 Mars. All rights reserved.
-//
-
 #import "ADo_RushLabel.h"
 
 #define defaultColor [UIColor orangeColor]
